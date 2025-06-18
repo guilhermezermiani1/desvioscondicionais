@@ -17,7 +17,7 @@ programa {
         escreva("🍕Pizza Gigante (60 cm) 4 sabores - R$ 180")
       pare
       caso "pp":
-        escreva("🍕Pizza Broto (20 cm) 1 sabores - R$ 37")
+        escreva("🍕Pizza Broto (20 cm) 1 sabor - R$ 37")
       pare
       caso contrario:
         escreva("Tamanho de pizza inválido.")
